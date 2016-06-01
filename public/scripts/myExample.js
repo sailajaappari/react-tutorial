@@ -22,7 +22,6 @@ var Comment = React.createClass({
 });
 
 
-
 //composing components
 //Comment List
 var CommentList = React.createClass({
